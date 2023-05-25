@@ -40,9 +40,6 @@ namespace Unikod_TEST
 
                     else if (lines.Trim().Substring(0, 2) == "01" && lines.Trim().Substring(16, 2) == "21" && lines.Trim().Substring(33, 2) == "17" && lines.Trim().Substring(41, 2) == "10")
                     {
-
-                        // 01 08699514092476 21 260734000995099 17 230228 10 21C623   
-                        // 01 05909991439705 21 HKVP108EF36TYK 17 241031 10 21L378
                         gtin = lines.Substring(2, 14).ToString();
                         seri_number = lines.Substring(18, 15).ToString();
                         skt = lines.Substring(39, 2).ToString() + "/" + lines.Substring(37, 2).ToString() + "/" + lines.Substring(35, 2).ToString();
