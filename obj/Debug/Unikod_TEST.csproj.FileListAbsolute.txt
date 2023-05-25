@@ -1,0 +1,11 @@
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\bin\Debug\Unikod_TEST.exe.config
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\bin\Debug\Unikod_TEST.exe
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\bin\Debug\Unikod_TEST.pdb
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.csproj.AssemblyReference.cache
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.Form1.resources
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.Properties.Resources.resources
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.csproj.GenerateResource.cache
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.csproj.CoreCompileInputs.cache
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.exe
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.pdb
+C:\Users\mevlut.boztepe\source\repos\Unikod_TEST\Unikod_TEST\obj\Debug\Unikod_TEST.csproj.SuggestedBindingRedirects.cache
